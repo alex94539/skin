@@ -1,0 +1,10 @@
+{
+    "db_config": {
+        "host": "localhost",
+        "user": "main",
+        "password": "",
+        "database": "kumiko"
+    },
+    "jwtSecret": "OumaeKumiko",
+    "tinyMceApi": "4ah37g9wba7s1oabryidjlyzl93df80e3o4ogz2k79cu2ggv"
+}
